@@ -1,6 +1,6 @@
 {
   "name": "datepicker-webcomponents-react",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Workaround for Datepicker issue",
   "main": "DatePicker.js",
   "repository": {
@@ -15,8 +15,9 @@
   "homepage": "https://github.com/lpohren/datepicker-webcomponents-react#readme",
   "dependencies": {
     "@ui5/webcomponents": "1.0.0-rc.14",
+    "@ui5/webcomponents-base": "0.34.0",
     "@ui5/webcomponents-react": "^0.16.0",
     "@ui5/webcomponents-react-base": "^0.16.0",
-    "@ui5/webcomponents-base": "0.34.0"
+    "react": "^17.0.2"
   }
 }

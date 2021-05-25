@@ -1,3 +1,4 @@
+import React from 'react';
 import { DatePicker as WBDatePicker } from '@ui5/webcomponents-react/dist/DatePicker';
 
 const DatePicker = (props) => {
