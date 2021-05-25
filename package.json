@@ -1,0 +1,19 @@
+{
+  "name": "datepicker-webcomponents-react",
+  "version": "1.0.0",
+  "description": "Workaround for Datepicker issue",
+  "main": "DatePicker.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpohren/datepicker-webcomponents-react.git"
+  },
+  "author": "Luis Henrique Pohren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lpohren/datepicker-webcomponents-react/issues"
+  },
+  "homepage": "https://github.com/lpohren/datepicker-webcomponents-react#readme",
+  "dependencies": {
+    "@ui5/webcomponents-react": "^0.16.1"
+  }
+}
