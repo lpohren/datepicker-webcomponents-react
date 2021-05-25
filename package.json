@@ -15,7 +15,7 @@
   "homepage": "https://github.com/lpohren/datepicker-webcomponents-react#readme",
   "dependencies": {
     "@ui5/webcomponents": "1.0.0-rc.9",
-    "@ui5/webcomponents-base": "1.0.0-rc.9",
+    "@ui5/webcomponents-base": "0.24.0",
     "@ui5/webcomponents-react": "0.11.0-rc.0",
     "@ui5/webcomponents-react-base": "0.11.0-rc.0"
   },
