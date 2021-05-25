@@ -1,6 +1,6 @@
 {
   "name": "datepicker-webcomponents-react",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Workaround for Datepicker issue",
   "main": "DatePicker.js",
   "repository": {
