@@ -7,7 +7,7 @@ import '@ui5/webcomponents/dist/DatePicker';
  *
  * <ui5-link href="https://sap.github.io/ui5-webcomponents/playground/components/DatePicker" target="_blank">UI5 Web Components Playground</ui5-link>
  */
-var DatePicker = withWebComponent('ui5-date-picker-neeew', ['name', 'placeholder', 'value', 'valueState', 'formatPattern', 'maxDate', 'minDate', 'primaryCalendarType'], ['disabled', 'hideWeekNumbers', 'readonly', 'required'], ['valueStateMessage'], ['change', 'input']);
+var DatePicker = withWebComponent('ui5-date-picker', ['name', 'placeholder', 'value', 'valueState', 'formatPattern', 'maxDate', 'minDate', 'primaryCalendarType'], ['disabled', 'hideWeekNumbers', 'readonly', 'required'], ['valueStateMessage'], ['change', 'input']);
 DatePicker.displayName = 'DatePicker';
 DatePicker.defaultProps = {
   disabled: false,
